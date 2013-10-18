@@ -2,7 +2,7 @@
 
 create table USUARIO(
     NOMBRE varchar NOT NULL,
-    CLAVE integer NOT NULL,
+    CLAVE varchar NOT NULL,
     TIPO varchar NOT NULL,
     CONSTRAINT PK_USUARIO PRIMARY KEY (NOMBRE)
 );

@@ -1,8 +1,5 @@
-<%-- 
-    Document   : holaView
-    Created on : 17/10/2013, 09:07:44 AM
-    Author     : roso
---%>
+
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>

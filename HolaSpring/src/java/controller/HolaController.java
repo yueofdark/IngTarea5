@@ -4,6 +4,7 @@
  */
 package controller;
 
+
 import org.springframework.web.servlet.ModelAndView;
 import org.springframework.web.servlet.mvc.SimpleFormController;
 import service.HolaService;
@@ -24,7 +25,7 @@ public class HolaController extends SimpleFormController {
         //Initialize controller properties here or 
         //in the Web Application Context
 
-        setCommandClass(Nombre.class);
+        setCommandClass(Usuario.class);
         setCommandName("nombre1");
         setSuccessView("holaView");
         setFormView("nombreView");
@@ -36,9 +37,9 @@ public class HolaController extends SimpleFormController {
     
      @Override
      protected ModelAndView onSubmit(Object command) throws Exception {
-     Nombre nombre = (Nombre)command;
+     Usuario nombre = (Usuario)command;
      ModelAndView mv = new ModelAndView(getSuccessView());
-     mv.addObject("holaMensaje",holaService.diHola(nombre.getUsuario(),nombre.getClave()));
+     mv.addObject("holaMensaje",holaService.diHola(nombre.getNombre(),nombre.getClave()));
      
      return mv;
      }
