@@ -1,6 +1,6 @@
 -- Creacion de las tablas
 
-create table USUARIO(
+create table PERSONA(
     NOMBRE varchar NOT NULL,
     CLAVE varchar NOT NULL,
     TIPO varchar NOT NULL,

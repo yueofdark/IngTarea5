@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/home/yue/Desktop/Ing/springMiDao/web/WEB-INF/web.xml</file>
+        <file>file:/home/yue/Desktop/Ing/springMiDao/web/WEB-INF/applicationContext.xml</file>
+        <file>file:/home/yue/Desktop/Ing/springMiDao/web/WEB-INF/dataSourceApp.xml</file>
+        <file>file:/home/yue/Desktop/Ing/springMiDao/web/WEB-INF/despachador-servlet.xml</file>
+        <file>file:/home/yue/Desktop/Ing/springMiDao/src/java/controlador/controladorPersona.java</file>
+        <file>file:/home/yue/Desktop/Ing/springMiDao/src/java/dao/PersonaDAO.java</file>
+        <file>file:/home/yue/Desktop/Ing/springMiDao/src/java/dao/PersonaSpringDAO.java</file>
+        <file>file:/home/yue/Desktop/Ing/springMiDao/web/redirect.jsp</file>
+        <file>file:/home/yue/Desktop/Ing/springMiDao/web/WEB-INF/sun-web.xml</file>
+        <file>file:/home/yue/Desktop/Ing/springMiDao/src/java/servicio/ServiciosPersona.java</file>
+        <file>file:/home/yue/Desktop/Ing/springMiDao/src/java/modelo/Persona.java</file>
+        <file>file:/home/yue/Desktop/Ing/springMiDao/web/WEB-INF/jsp/busqueda.jsp</file>
+        <file>file:/home/yue/Desktop/Ing/springMiDao/web/WEB-INF/jsp/index.jsp</file>
+        <file>file:/home/yue/Desktop/Ing/springMiDao/web/WEB-INF/jsp/listado.jsp</file>
+        <file>file:/home/yue/Desktop/Ing/springMiDao/web/WEB-INF/jsp/respuesta.jsp</file>
+    </open-files>
+</project-private>

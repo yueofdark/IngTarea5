@@ -1,4 +1,4 @@
-drop table USUARIO;
+drop table PERSONA;
 drop table CONFORMA;
 drop table CONTIENE;
 drop table AFILIA;
