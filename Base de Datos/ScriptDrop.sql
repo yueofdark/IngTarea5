@@ -1,0 +1,16 @@
+drop table USUARIO;
+drop table CONFORMA;
+drop table CONTIENE;
+drop table AFILIA;
+drop table PREPAGO;
+drop table POSTPAGO;
+drop table CONTRATA;
+drop table CONSUMO;
+drop table FACTURA;
+drop table PRODUCTO;
+drop table TARJETA;
+drop table CLIENTE;
+drop table PLAN;
+drop table SERVICIO;
+drop table PAQUETE;
+drop table TIPO_SERVICIO;
